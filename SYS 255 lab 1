@@ -1,0 +1,5 @@
+In this lab I created a small network using vsphere a cloud computing platform. I used this network to establish
+a firewall from Opensense a open source firewall it was connected to a WAN(10.0.17.118/24) and a LAN(10.0.5.2/24)
+,Opensense was configured in command prompt.
+Tracert ran in command prompt with a max of 3 hops to sho packets routing from the LAN to the WAN.
+Power shell was used in order to check functionality of the networks and that the host and account name were correct.
